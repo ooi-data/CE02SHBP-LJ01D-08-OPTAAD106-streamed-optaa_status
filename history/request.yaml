@@ -1,5 +1,5 @@
 data_ready: false
 data_stream: CE02SHBP-LJ01D-08-OPTAAD106-streamed-optaa_status
-last_request: '2022-01-01T01:22:58.773183Z'
+last_request: '2022-01-21T17:37:49.315355Z'
 response: https://raw.githubusercontent.com/ooi-data/CE02SHBP-LJ01D-08-OPTAAD106-streamed-optaa_status/main/history/response.json
 status: discontinued
